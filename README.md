@@ -1,5 +1,7 @@
 # 👋 Hola, soy Manuel Suarez
-
+<p align="center">
+  <img src="imagen.webp" width="600"/>
+  <p>
 🚀 Aprendiz del SENA | Desarrollo de Software en formación  
 
 Me apasiona la tecnología y el aprendizaje constante. Actualmente estoy enfocado en fortalecer mis habilidades en desarrollo de software, especialmente en bases de datos, lógica de programación y desarrollo web.
