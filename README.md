@@ -4,11 +4,11 @@
 
 Me apasiona la tecnología y el aprendizaje constante. Actualmente estoy enfocado en fortalecer mis habilidades en desarrollo de software, especialmente en bases de datos, lógica de programación y desarrollo web.
 
-## 💻 Tecnologías y herramientas
-- SQL  
-- HTML 
-- CSS  
-- js 
+## 🚀 Tecnologías que manejo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,js" />
+</p>
 
 
 ## 📚 Actualmente estoy aprendiendo
