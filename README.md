@@ -6,9 +6,10 @@ Me apasiona la tecnología y el aprendizaje constante. Actualmente estoy enfocad
 
 ## 💻 Tecnologías y herramientas
 - SQL  
-- HTML / CSS  
-- Java (o el lenguaje que uses)  
-- Git & GitHub  
+- HTML 
+- CSS  
+- js 
+
 
 ## 📚 Actualmente estoy aprendiendo
 - Desarrollo web  
