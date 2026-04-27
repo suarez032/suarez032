@@ -1,6 +1,6 @@
 # 👋 Hola, soy Manuel Suarez
 <p align="center">
-  <img src="imagen.webp" width="600"/>
+  <img src="imagen.webp" width="500"/>
   <p>
 🚀 Aprendiz del SENA | Desarrollo de Software en formación  
 
