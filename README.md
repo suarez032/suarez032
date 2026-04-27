@@ -21,8 +21,8 @@ Me apasiona la tecnología y el aprendizaje constante. Actualmente estoy enfocad
 - Aprender nuevas tecnologías  
 
 ## 📫 Contacto
-- 📧 Tu correo aquí  
-- 💼 LinkedIn (opcional)  
+- Correo : jesuum.arrieta2008@gmail.com
+  
 
 ---
 
